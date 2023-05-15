@@ -19,5 +19,8 @@ public:
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    //bukunya.setJudul("Matematika");
+    //cout << bukunya.getJudul();
+    cout << bukunya.setJudul("Matematika").getJudul(); //memanggil chain function
+    return 0;
 }
