@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticConstructor", "Static
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticFunc", "StaticFunc\StaticFunc.vcxproj", "{E4CD9971-A653-4A60-9823-E427BE559E09}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Konstruktor", "Konstruktor\Konstruktor.vcxproj", "{F8F9637E-7E4B-4B45-AA9C-71CEBC9A73C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{E4CD9971-A653-4A60-9823-E427BE559E09}.Release|x64.Build.0 = Release|x64
 		{E4CD9971-A653-4A60-9823-E427BE559E09}.Release|x86.ActiveCfg = Release|Win32
 		{E4CD9971-A653-4A60-9823-E427BE559E09}.Release|x86.Build.0 = Release|Win32
+		{F8F9637E-7E4B-4B45-AA9C-71CEBC9A73C2}.Debug|x64.ActiveCfg = Debug|x64
+		{F8F9637E-7E4B-4B45-AA9C-71CEBC9A73C2}.Debug|x64.Build.0 = Debug|x64
+		{F8F9637E-7E4B-4B45-AA9C-71CEBC9A73C2}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8F9637E-7E4B-4B45-AA9C-71CEBC9A73C2}.Debug|x86.Build.0 = Debug|Win32
+		{F8F9637E-7E4B-4B45-AA9C-71CEBC9A73C2}.Release|x64.ActiveCfg = Release|x64
+		{F8F9637E-7E4B-4B45-AA9C-71CEBC9A73C2}.Release|x64.Build.0 = Release|x64
+		{F8F9637E-7E4B-4B45-AA9C-71CEBC9A73C2}.Release|x86.ActiveCfg = Release|Win32
+		{F8F9637E-7E4B-4B45-AA9C-71CEBC9A73C2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
