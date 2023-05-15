@@ -34,5 +34,9 @@ void angka::cetakData() {
 
 int main()
 {
-    
+    angka belajarcpp(3); // konstruktor dipanggi
+    angka* ptrBelajarcpp = new angka(5); //konstruktor dipanggil
+    delete ptrBelajarcpp; //destruktor dipanggi
+
+    return 0;
 }
